@@ -1,0 +1,105 @@
+{
+    "title": "SAM Updates",
+    "creators": [
+        {
+            "name": "Luis Bolanos"
+        },
+        {
+            "name": "Jeffrey LeDue"
+        },
+        {
+            "name": "Timothy H. Murphy (Murphy Lab)"
+        },
+        {
+            "name": "Dongsheng Xiao"
+        },
+        {
+            "name": "UBC Brain Circuits Cluster"
+        },
+        {
+            "name": "Carlos Doebeli"
+        },
+        {
+            "name": "PANKAJ GUPTA"
+        },
+        {
+            "name": "hao hu"
+        },
+        {
+            "name": "Helge Rhodin"
+        }
+    ],
+    "description": "",
+    "version": "2021-07-29T23:39:57.217740",
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2021-06-10 21:09:55",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2021-07-29 23:39:57",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 798.3,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/yvrzg/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "University of British Columbia"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "7"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
